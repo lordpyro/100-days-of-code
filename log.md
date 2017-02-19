@@ -24,3 +24,9 @@ I finished a type of search engine using only 'for loops'.
 
 # Thoughts:
 The thinking behind the coding is very important/
+
+### Day 5: February 19th 2017
+finished writing samples of "for", "while", and "do/while" loops.
+
+#Thoughts:
+Code Academy quizzes really makes you use your head!
