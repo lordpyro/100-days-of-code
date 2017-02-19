@@ -18,3 +18,9 @@ I only did a tiny bit of code on the 16th because I wasn't feeling well.
 ### Day 3: February 17th, 2017
 I finished up a Codeacademy course on functions which were a few exercises, and I started in on the Arrays section. I also
 read the Functions page on MDN, as well as the Array chapter on A Smarter Way to Learn Javascript.
+
+### Day 4: February 18th, 2017
+I finished a type of search engine using only 'for loops'.
+
+# Thoughts:
+The thinking behind the coding is very important/
