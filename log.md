@@ -30,3 +30,9 @@ finished writing samples of "for", "while", and "do/while" loops.
 
 #Thoughts:
 Code Academy quizzes really makes you use your head!
+
+### Day 6: February 20th 2017
+worked on my landing page for an ebook I want to release. I wrote a header, footer, reviewed multiple image placement, played with linear graidents, found some color templates and added it to the site. I also went through some CideAcademy lessons where I needed to write if/else if lessons with isNaN functions.
+
+#THoughts
+pushing hard..wodnering if I am getting it. I am glad its just a skill.
