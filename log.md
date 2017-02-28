@@ -36,3 +36,7 @@ worked on my landing page for an ebook I want to release. I wrote a header, foot
 
 #THoughts
 pushing hard..wodnering if I am getting it. I am glad its just a skill.
+
+### Day 7: February 28th 2017
+
+I did a few that I didn't write before  - I 've been going through the exercises on Codeacademy ( I worked on while loos, a dragon slayong game, I also worked on the code for a Tumblr site) and trying to finish the exercises
